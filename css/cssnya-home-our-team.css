@@ -971,7 +971,7 @@ section {
 #team {
   width: 100%;
   background-size: cover;
-  background-image: url('./asset/background-team.jpg');
+  background-image: url('../asset/background-team.jpg');
   position: center;
 	
 }
